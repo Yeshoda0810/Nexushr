@@ -9,4 +9,3 @@ target/
 # NEVER commit real DB credentials - copy this file, fill it in locally, and keep it out of git
 application-local.properties
 .env
-src/main/resources/application.properties
